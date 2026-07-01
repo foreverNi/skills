@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product UI Review"
+  short_description: "Review and polish product-grade user interfaces"
+  default_prompt: "Use $product-ui-review to review this UI and propose product-grade improvements."
