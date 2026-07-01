@@ -1,0 +1,4 @@
+interface:
+  display_name: "Personal Knowledge Base"
+  short_description: "Maintain a portable Markdown LLM Wiki knowledge base."
+  default_prompt: "Use this skill to add knowledge to the wiki or check wiki health."
