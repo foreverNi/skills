@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mental Models Framework"
+  short_description: "Analyze decisions with multidisciplinary mental models"
+  default_prompt: "Use $mental-models-framework to analyze this problem with the mental models lattice."
