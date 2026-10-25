@@ -1,4 +1,4 @@
 interface:
   display_name: "Personal Knowledge Base"
-  short_description: "Maintain a portable Markdown LLM Wiki knowledge base."
-  default_prompt: "Use this skill to add knowledge to the wiki or check wiki health."
+  short_description: "维护可移植的 Markdown LLM Wiki 个人知识库：摄入素材、生成带交叉引用的页面、体检断链与过时内容。"
+  default_prompt: "帮我把这个加入知识库 / 检查知识库健康状态"
